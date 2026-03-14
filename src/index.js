@@ -1,1 +1,4 @@
-console.log("test console");
+import { buildHome } from "./home.js";
+
+const contentDiv = document.getElementById("content");
+buildHome(contentDiv);
