@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+li {
+  display: flex;
+}
+
+img {
+  width: 500px;
+}
