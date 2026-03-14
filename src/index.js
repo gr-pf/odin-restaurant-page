@@ -1,6 +1,7 @@
 // Les fonctions build acceptent toutes un unique paramètre HTLMElement
 // Et elles modifient le innerHTML de cet élément sans rien retourner
 
+import "./style.css";
 import { buildHome } from "./home/home.js";
 import { buildMenu } from "./menu/menu.js";
 import { buildAbout } from "./about/about.js";
