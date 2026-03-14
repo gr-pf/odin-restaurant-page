@@ -2,7 +2,7 @@ import figPizza1 from "./menu-fig1-pepperoni.jpg";
 import figPizza2 from "./menu-fig2-mushrooms.jpg";
 import figPizza3 from "./menu-fig3-tomato.jpg";
 
-export const pizzas = {
+const pizzas = {
   p0: {
     title: "Pizza Pepperoni",
     fig: figPizza1,
