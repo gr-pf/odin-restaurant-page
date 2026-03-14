@@ -1,6 +1,7 @@
 import figPizza1 from "./menu-fig1-pepperoni.jpg";
 import figPizza2 from "./menu-fig2-mushrooms.jpg";
 import figPizza3 from "./menu-fig3-tomato.jpg";
+import "./menu.css";
 
 const pizzas = {
   p0: {
